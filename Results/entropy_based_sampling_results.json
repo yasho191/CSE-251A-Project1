@@ -1,0 +1,30 @@
+{
+  "0": {
+    "samples": 500,
+    "accuracy": 84.5
+  },
+  "1": {
+    "samples": 1000,
+    "accuracy": 88.41
+  },
+  "2": {
+    "samples": 2000,
+    "accuracy": 91.2
+  },
+  "3": {
+    "samples": 5000,
+    "accuracy": 93.41000000000001
+  },
+  "4": {
+    "samples": 10000,
+    "accuracy": 94.86
+  },
+  "5": {
+    "samples": 20000,
+    "accuracy": 95.74000000000001
+  },
+  "6": {
+    "samples": 30000,
+    "accuracy": 95.93
+  }
+}

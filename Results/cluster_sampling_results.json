@@ -1,0 +1,212 @@
+{
+  "0": {
+    "clusters": 10,
+    "samples": 500,
+    "accuracy": 69.64
+  },
+  "1": {
+    "clusters": 10,
+    "samples": 1000,
+    "accuracy": 74.08
+  },
+  "2": {
+    "clusters": 10,
+    "samples": 2000,
+    "accuracy": 76.18
+  },
+  "3": {
+    "clusters": 10,
+    "samples": 5000,
+    "accuracy": 81.72
+  },
+  "4": {
+    "clusters": 10,
+    "samples": 10000,
+    "accuracy": 85.83
+  },
+  "5": {
+    "clusters": 10,
+    "samples": 20000,
+    "accuracy": 89.72
+  },
+  "6": {
+    "clusters": 10,
+    "samples": 30000,
+    "accuracy": 92.42
+  },
+  "7": {
+    "clusters": 50,
+    "samples": 500,
+    "accuracy": 84.02
+  },
+  "8": {
+    "clusters": 50,
+    "samples": 1000,
+    "accuracy": 85.61999999999999
+  },
+  "9": {
+    "clusters": 50,
+    "samples": 2000,
+    "accuracy": 87.64
+  },
+  "10": {
+    "clusters": 50,
+    "samples": 5000,
+    "accuracy": 90.03999999999999
+  },
+  "11": {
+    "clusters": 50,
+    "samples": 10000,
+    "accuracy": 91.64
+  },
+  "12": {
+    "clusters": 50,
+    "samples": 20000,
+    "accuracy": 93.01
+  },
+  "13": {
+    "clusters": 50,
+    "samples": 30000,
+    "accuracy": 94.01
+  },
+  "14": {
+    "clusters": 100,
+    "samples": 500,
+    "accuracy": 88.25
+  },
+  "15": {
+    "clusters": 100,
+    "samples": 1000,
+    "accuracy": 89.68
+  },
+  "16": {
+    "clusters": 100,
+    "samples": 2000,
+    "accuracy": 90.4
+  },
+  "17": {
+    "clusters": 100,
+    "samples": 5000,
+    "accuracy": 91.78
+  },
+  "18": {
+    "clusters": 100,
+    "samples": 10000,
+    "accuracy": 93.26
+  },
+  "19": {
+    "clusters": 100,
+    "samples": 20000,
+    "accuracy": 94.15
+  },
+  "20": {
+    "clusters": 100,
+    "samples": 30000,
+    "accuracy": 94.78
+  },
+  "21": {
+    "clusters": 150,
+    "samples": 500,
+    "accuracy": 88.44
+  },
+  "22": {
+    "clusters": 150,
+    "samples": 1000,
+    "accuracy": 89.92
+  },
+  "23": {
+    "clusters": 150,
+    "samples": 2000,
+    "accuracy": 91.05
+  },
+  "24": {
+    "clusters": 150,
+    "samples": 5000,
+    "accuracy": 92.27
+  },
+  "25": {
+    "clusters": 150,
+    "samples": 10000,
+    "accuracy": 93.45
+  },
+  "26": {
+    "clusters": 150,
+    "samples": 20000,
+    "accuracy": 94.39999999999999
+  },
+  "27": {
+    "clusters": 150,
+    "samples": 30000,
+    "accuracy": 95.19
+  },
+  "28": {
+    "clusters": 200,
+    "samples": 500,
+    "accuracy": 88.94999999999999
+  },
+  "29": {
+    "clusters": 200,
+    "samples": 1000,
+    "accuracy": 90.48
+  },
+  "30": {
+    "clusters": 200,
+    "samples": 2000,
+    "accuracy": 91.27
+  },
+  "31": {
+    "clusters": 200,
+    "samples": 5000,
+    "accuracy": 92.74
+  },
+  "32": {
+    "clusters": 200,
+    "samples": 10000,
+    "accuracy": 93.61
+  },
+  "33": {
+    "clusters": 200,
+    "samples": 20000,
+    "accuracy": 94.67
+  },
+  "34": {
+    "clusters": 200,
+    "samples": 30000,
+    "accuracy": 95.28999999999999
+  },
+  "35": {
+    "clusters": 250,
+    "samples": 500,
+    "accuracy": 90.13
+  },
+  "36": {
+    "clusters": 250,
+    "samples": 1000,
+    "accuracy": 91.05
+  },
+  "37": {
+    "clusters": 250,
+    "samples": 2000,
+    "accuracy": 91.95
+  },
+  "38": {
+    "clusters": 250,
+    "samples": 5000,
+    "accuracy": 93.53
+  },
+  "39": {
+    "clusters": 250,
+    "samples": 10000,
+    "accuracy": 94.19999999999999
+  },
+  "40": {
+    "clusters": 250,
+    "samples": 20000,
+    "accuracy": 94.85
+  },
+  "41": {
+    "clusters": 250,
+    "samples": 30000,
+    "accuracy": 95.34
+  }
+}
